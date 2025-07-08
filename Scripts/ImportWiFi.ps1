@@ -19,14 +19,8 @@
     The local path where the temporary WiFi profile XML will be created. 
     Default is "C:\Install\Wi-Fi\WiFi.xml".
 
-.EXAMPLE
-    .\ImportWiFi.ps1 -WiFiName "MyNetwork" -WiFiPassword "MyPassword123"
-    
-.EXAMPLE
-    .\ImportWiFi.ps1 -WiFiName "CompanyWiFi" -WiFiPassword "SecurePass" -LocalPath "C:\Temp\profile.xml"
-
 .NOTES
-    Author: NinjaOne RMM Script
+    Author: Jan Ried
     Version: 1.0
     Date: July 8, 2025
     Requires: PowerShell 5.1+ and Administrator privileges

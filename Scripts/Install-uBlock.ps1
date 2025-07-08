@@ -13,7 +13,7 @@
     The script handles registry modifications and policy configurations to enable the extensions.
 
 .NOTES
-    Author: NinjaOne RMM Script
+    Author: Jan Ried
     Version: 1.0
     Date: July 8, 2025
     Requires: PowerShell 5.1+ and Administrator privileges

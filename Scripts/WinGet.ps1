@@ -15,7 +15,7 @@
     Installs all applications defined in the $apps array.
 
 .NOTES
-    Author: NinjaOne RMM Script
+    Author: Jan Ried
     Version: 1.0
     Date: July 8, 2025
     Requires: PowerShell 5.1+, Administrator privileges, and WinGet (Microsoft.DesktopAppInstaller)
