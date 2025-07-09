@@ -58,7 +58,6 @@ $bloatwareApps = @(
     "Microsoft.People",
     "Microsoft.SkypeApp",
     "Microsoft.WindowsAlarms",
-    "Microsoft.WindowsCamera",
     "Microsoft.windowscommunicationsapps",
     "Microsoft.WindowsFeedbackHub",
     "Microsoft.WindowsMaps",
